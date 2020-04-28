@@ -1,2 +1,3 @@
 # floyalty
-Open-source loyalty system written on f#
+Loyalty system written on f#
+
